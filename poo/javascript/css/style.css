@@ -1,0 +1,18 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    min-height: 100%;
+    margin: 0;
+    background: linear-gradient(to bottom, #7ab8f5, #ffffff);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.topo {
+    background-color: #6ab7f5 no repeat;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+

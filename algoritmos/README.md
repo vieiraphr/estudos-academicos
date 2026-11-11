@@ -15,10 +15,6 @@ python 1helloworld.py
 
 Troque `1helloworld.py` pelo nome de qualquer outro arquivo (por exemplo, `33imc.py`). Em alguns sistemas o comando é `python3`. Não há dependências externas.
 
-## Exemplo
-
-![Exemplo de execução](img/exemplo.png)
-
 ## Exercícios
 
 Do `1helloworld.py` ao `36reajustesalario.py`: entrada e saída de dados, cálculos, condicionais (`if/elif/else`) e pequenos jogos como jokenpô e adivinhação.

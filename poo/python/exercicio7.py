@@ -6,12 +6,12 @@
 
 
 class Boletim:
-        def __init__(self, aluno):
+    def __init__(self, aluno):
         self.__aluno = aluno
         self.__notas = []
 
     def adicionar_nota(self, nota):
-        if 0 <= nota <= 10:
+        if isinstance(nota, (int, float)) and 0 <= nota <= 10:
             self.__notas.append(nota)
             print("Nota adicionada com sucesso!")
         else:
@@ -38,6 +38,11 @@ boletim = Boletim("Pedro")
 boletim.adicionar_nota(8)
 boletim.adicionar_nota(7)
 boletim.adicionar_nota(9)
+boletim.adicionar_nota(11)
+boletim.adicionar_nota("dez")
 
 print("Média:", boletim.calcular_media())
 print("Situação:", boletim.verificar_situacao())
+
+vazio = Boletim("Ana")
+print("Média sem notas:", vazio.calcular_media())

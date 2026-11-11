@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+ 
+# Node (caso algum projeto JavaScript passe a usar npm)
+node_modules/
+ 
+# Variáveis de ambiente
+.env
+ 
+# Editores e IDEs
+.idea/
+.vscode/
+ 
+# Sistema operacional
+.DS_Store
+Thumbs.ds

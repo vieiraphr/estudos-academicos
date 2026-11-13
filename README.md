@@ -29,40 +29,6 @@ Este é o **hub central** dos meus estudos no curso de **Análise e Desenvolvime
 
 ---
 
-## 🔎 Saiba mais sobre cada trilha
-
-<details>
-<summary><b>💻 Algoritmos e Lógica de Programação</b></summary>
-<br/>
-
-Atividades e exercícios voltados aos fundamentos da programação e ao desenvolvimento do raciocínio lógico.
-
-🔗 [Acessar repositório](https://github.com/vieiraphr/Trabalho-Algoritmos)
-
-</details>
-
-<details>
-<summary><b>🟨 JavaScript – Programação Orientada a Objetos</b></summary>
-<br/>
-
-Atividades práticas com classes, objetos e conceitos de POO em JavaScript.
-
-🔗 [Acessar repositório](https://github.com/vieiraphr/AlunoPOO)
-
-</details>
-
-<details>
-<summary><b>🐍 Python – Programação Orientada a Objetos</b></summary>
-<br/>
-
-Exercícios e implementações explorando classes, encapsulamento, propriedades, métodos e validações.
-
-🔗 [Acessar repositório](https://github.com/vieiraphr/trabalho-poo-python)
-
-</details>
-
----
-
 ## 🎯 Objetivos
 
 - Organizar atividades e exercícios desenvolvidos durante a graduação
